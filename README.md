@@ -52,5 +52,11 @@ Generative-AI-with-Large-Language-Models/
 └── README.md
 ```
 
+## 📩 Let’s Connect
 
 Feel free to ⭐ star this repository if it helps you in your own AI learning journey!
+
+---
+
+Thanks for stopping by! 🙌  
+Happy learning and building 🚀
